@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "title": "Boutique de jojo",
+    "currency": "DZD",
+    "showStock": true,
+    "ntfyTopic": "jojo_commandes"
+  },
+  "categories": [],
+  "products": []
+}
